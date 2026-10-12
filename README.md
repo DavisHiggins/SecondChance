@@ -12,7 +12,7 @@
   <a href="https://davishiggins.com"><img src="assets/btn-dh.svg" height="44" alt="Davis Higgins" /></a>
 </p>
 
-<p align="center"><sub>Live · UNC Charlotte team project · Website by Davis Higgins</sub></p>
+<p align="center"><sub>Live · UNC Charlotte team project</sub></p>
 
 ---
 
