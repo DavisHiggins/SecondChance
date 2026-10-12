@@ -12,7 +12,7 @@
   <a href="https://davishiggins.com"><img src="assets/btn-dh.svg" height="44" alt="Davis Higgins" /></a>
 </p>
 
-<p align="center"><sub>Live · UNC Charlotte team project</sub></p>
+<p align="center"><sub>Live · UNC Charlotte team project · Website by Davis Higgins</sub></p>
 
 ---
 
@@ -96,4 +96,4 @@ flowchart TB
   <a href="https://github.com/DavisHiggins"><img src="assets/btn-more.svg" height="44" alt="More of my work" /></a>
 </p>
 
-<p align="center"><sub>© 2026 Davis Higgins. SecondChance was built by Davis Higgins, Bennett Shearin, Seth Sumter, and Hunter Pace. Shelter data: City of Austin Open Data Portal.</sub></p>
+<p align="center"><sub>© 2026 Davis Higgins. Shelter data: City of Austin Open Data Portal.</sub></p>
